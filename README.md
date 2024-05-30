@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on *Real Time white board sharing app*
 
-- 🌱 I’m currently learning *Node Js,Express Js,*
+- 🌱 I’m currently learning *Node Js,Express Js,MongoDB*
 
 - 💬 Ask me about *DSA,Development and life Stories*
 
