@@ -7,6 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3>About Me....</h4>
+
+  if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 - 🔭 I’m currently working on *Real Time white board sharing app*
 
 - 🌱 I’m currently learning *Node Js,Express Js,MongoDB*
@@ -26,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravvkm1&show_icons=true&locale=en&layout=compact" alt="gauravvkm1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravvkm1&show_icons=true&locale=en" alt="gauravvkm1" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=gauravvkm1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark]" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravvkm1&" alt="gauravvkm1" /></p>
